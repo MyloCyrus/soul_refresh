@@ -43,11 +43,11 @@ function soul_refresh()
         
         # Beat the heart with the sunSoul
         sunSoul = "sunSoul"
-        beat_heart(sunSoul)
+        beat_heart(https://twitter.com/i/status/1678024456093208576)
         
         # Beat the heart with the new soul
         new_soul_beat = "new Soulbeat"
-        beat_heart(new_soul_beat)
+        beat_heart(https://twitter.com/i/status/1678024456093208576)
         
         # Beat the heart with the old SoulinSTANDby
         old_soul_in_standby = "old SoulinSTANDby"
